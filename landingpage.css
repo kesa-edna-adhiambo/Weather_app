@@ -1,6 +1,7 @@
 h1{
     color: #ffbc00;
     margin-left: 50px;
+    font-size: 100px;
 }
 
 #container{
@@ -14,18 +15,19 @@ body{
 }
 
 .image{
-    width: 480px;
+    width: 580px;
+    margin-top: 150px;
 }
 
 .text{
-    margin-top: 50px;
+    margin-top: 200px;
     margin-right: 200px;
     font-size: 35px;
 }
 
 p{
     color: white;
-    font-size: 25px;
+    font-size: 35px;
     margin-left: 55px;
 }
 
@@ -33,13 +35,14 @@ button{
     margin-left: 60px;
     background-color: #ffbc00;
     border-radius: 10px;
-    width: 150px;
-    height: 40px;
+    width: 200px;
+    height: 60px;
 }
 
 a{
     text-decoration: none;
     color: black;
+    font-size: large;
 }
 
 @media screen and (min-width: 250px) and (max-width: 500px){
